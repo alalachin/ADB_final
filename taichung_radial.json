@@ -1,0 +1,552 @@
+[
+    {
+        "type": "house",
+        "id": 32114,
+        "name": 0,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "32114_o",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "32114_h",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "32114_r",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "32114_p",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "32114_u",
+                "name": "東海大學"
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "32114_s",
+                "name": "私立嶺東高中"
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "32114_j",
+                "name": "私立嶺東高中附設國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "32114_e",
+                "name": "市立文山國小"
+            }
+        ]
+    },
+    {
+        "type": "house",
+        "id": 90509,
+        "name": 1,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "90509_o",
+                "name": "三和派出所"
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "90509_h",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "90509_r",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "90509_p",
+                "name": "綠道10"
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "90509_u",
+                "name": "中山醫學大學"
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "90509_s",
+                "name": "華德福大地實驗學校"
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "90509_j",
+                "name": "市立烏日國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "90509_e",
+                "name": NaN
+            }
+        ]
+    },
+    {
+        "type": "house",
+        "id": 95212,
+        "name": 2,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "95212_o",
+                "name": "四平派出所"
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "95212_h",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "95212_r",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "95212_p",
+                "name": "細公2-5"
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "95212_u",
+                "name": "逢甲大學"
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "95212_s",
+                "name": "私立衛道高中"
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "95212_j",
+                "name": "市立潭秀國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "95212_e",
+                "name": "市立頭家國小"
+            }
+        ]
+    },
+    {
+        "type": "house",
+        "id": 27039,
+        "name": 3,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "27039_o",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "27039_h",
+                "name": "國軍臺中總醫院"
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "27039_r",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "27039_p",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "27039_u",
+                "name": "國立勤益科技大學"
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "27039_s",
+                "name": "私立華盛頓高中"
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "27039_j",
+                "name": "市立太平國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "27039_e",
+                "name": "市立廍子國小"
+            }
+        ]
+    },
+    {
+        "type": "house",
+        "id": 90787,
+        "name": 4,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "90787_o",
+                "name": "大秀派出所"
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "90787_h",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "90787_r",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "90787_p",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "90787_u",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "90787_s",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "90787_j",
+                "name": "市立清水國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "90787_e",
+                "name": "市立槺榔國小"
+            }
+        ]
+    },
+    {
+        "type": "house",
+        "id": 8737,
+        "name": 5,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "8737_o",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "8737_h",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "8737_r",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "8737_p",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "8737_u",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "8737_s",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "8737_j",
+                "name": "市立清水國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "8737_e",
+                "name": "市立槺榔國小"
+            }
+        ]
+    },
+    {
+        "type": "house",
+        "id": 65981,
+        "name": 6,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "65981_o",
+                "name": "南屯派出所"
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "65981_h",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "65981_r",
+                "name": "臺中萬和宮．老二媽西屯省親遶境"
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "65981_p",
+                "name": "公94"
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "65981_u",
+                "name": "國立臺中教育大學"
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "65981_s",
+                "name": "私立嶺東高中"
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "65981_j",
+                "name": "市立萬和國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "65981_e",
+                "name": "市立南屯國小"
+            }
+        ]
+    },
+    {
+        "type": "house",
+        "id": 30276,
+        "name": 7,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "30276_o",
+                "name": "南屯派出所"
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "30276_h",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "30276_r",
+                "name": "臺中萬和宮．老二媽西屯省親遶境"
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "30276_p",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "30276_u",
+                "name": "國立臺中教育大學"
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "30276_s",
+                "name": "私立嶺東高中"
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "30276_j",
+                "name": "市立萬和國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "30276_e",
+                "name": NaN
+            }
+        ]
+    },
+    {
+        "type": "house",
+        "id": 2117,
+        "name": 8,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "2117_o",
+                "name": "義里派出所"
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "2117_h",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "2117_r",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "2117_p",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "2117_u",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "2117_s",
+                "name": "市立后綜高中"
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "2117_j",
+                "name": "市立后綜高中附設國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "2117_e",
+                "name": "市立內埔國小"
+            }
+        ]
+    },
+    {
+        "type": "house",
+        "id": 10676,
+        "name": 9,
+        "child": [
+            {
+                "type": "facility",
+                "subtype": "police",
+                "id": "10676_o",
+                "name": "何安派出所"
+            },
+            {
+                "type": "facility",
+                "subtype": "hospital",
+                "id": "10676_h",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "religious",
+                "id": "10676_r",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "park",
+                "id": "10676_p",
+                "name": NaN
+            },
+            {
+                "type": "facility",
+                "subtype": "university",
+                "id": "10676_u",
+                "name": "國立中興大學"
+            },
+            {
+                "type": "facility",
+                "subtype": "senior",
+                "id": "10676_s",
+                "name": "私立曉明女中"
+            },
+            {
+                "type": "facility",
+                "subtype": "junior",
+                "id": "10676_j",
+                "name": "市立大德國中"
+            },
+            {
+                "type": "facility",
+                "subtype": "elementary",
+                "id": "10676_e",
+                "name": "市立忠明國小"
+            }
+        ]
+    }
+]

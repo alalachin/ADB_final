@@ -1,0 +1,532 @@
+[
+    {
+        "type": "house",
+        "id": 25862,
+        "name": 0
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "25862_o",
+        "name": "勤工派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "25862_h",
+        "name": "中山醫學大學附設醫院"
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "25862_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "25862_p",
+        "name": "樹德公園"
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "25862_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "25862_s",
+        "name": "私立明道高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "25862_j",
+        "name": "市立光德國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "25862_e",
+        "name": "市立南區和平國小"
+    },
+    {
+        "type": "house",
+        "id": 33339,
+        "name": 1
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "33339_o",
+        "name": "霧峰派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "33339_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "33339_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "33339_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "33339_u",
+        "name": "朝陽科技大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "33339_s",
+        "name": "私立明台高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "33339_j",
+        "name": "市立霧峰國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "33339_e",
+        "name": "市立霧峰國小"
+    },
+    {
+        "type": "house",
+        "id": 16558,
+        "name": 2
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "16558_o",
+        "name": "協和派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "16558_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "16558_r",
+        "name": "東海大學路思義教堂"
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "16558_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "16558_u",
+        "name": "東海大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "16558_s",
+        "name": "私立東大附中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "16558_j",
+        "name": "私立麗喆國中(小)"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "16558_e",
+        "name": "私立麗喆國(中)小"
+    },
+    {
+        "type": "house",
+        "id": 46854,
+        "name": 3
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "46854_o",
+        "name": "第五分局"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "46854_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "46854_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "46854_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "46854_u",
+        "name": "國立臺中教育大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "46854_s",
+        "name": "私立新民高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "46854_j",
+        "name": "市立大德國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "46854_e",
+        "name": "私立慎齋小學"
+    },
+    {
+        "type": "house",
+        "id": 89596,
+        "name": 4
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "89596_o",
+        "name": "第一分局"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "89596_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "89596_r",
+        "name": "臺中柳原教會"
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "89596_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "89596_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "89596_s",
+        "name": "國立興大附中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "89596_j",
+        "name": "市立光榮國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "89596_e",
+        "name": "市立臺中國小"
+    },
+    {
+        "type": "house",
+        "id": 2022,
+        "name": 5
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "2022_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "2022_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "2022_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "2022_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "2022_u",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "2022_s",
+        "name": "市立龍津高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "2022_j",
+        "name": "市立龍津高中附設國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "2022_e",
+        "name": "市立龍港國小"
+    },
+    {
+        "type": "house",
+        "id": 49629,
+        "name": 6
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "49629_o",
+        "name": "第二分局"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "49629_h",
+        "name": "維新醫療社團法人台中維新醫院"
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "49629_r",
+        "name": "臺中柳原教會"
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "49629_p",
+        "name": "細兒194"
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "49629_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "49629_s",
+        "name": "私立新民高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "49629_j",
+        "name": "市立雙十國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "49629_e",
+        "name": "私立育仁國小"
+    },
+    {
+        "type": "house",
+        "id": 80772,
+        "name": 7
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "80772_o",
+        "name": "公益派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "80772_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "80772_r",
+        "name": "臺中萬和宮．老二媽西屯省親遶境"
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "80772_p",
+        "name": "東興公園"
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "80772_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "80772_s",
+        "name": "私立曉明女中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "80772_j",
+        "name": "市立黎明國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "80772_e",
+        "name": "市立忠明國小"
+    },
+    {
+        "type": "house",
+        "id": 8318,
+        "name": 8
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "8318_o",
+        "name": "第二分局"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "8318_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "8318_r",
+        "name": "臺中柳原教會"
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "8318_p",
+        "name": "育強公園"
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "8318_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "8318_s",
+        "name": "私立新民高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "8318_j",
+        "name": "市立新光國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "8318_e",
+        "name": "私立育仁國小"
+    },
+    {
+        "type": "house",
+        "id": 69418,
+        "name": 9
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "69418_o",
+        "name": "西屯派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "69418_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "69418_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "69418_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "69418_u",
+        "name": "東海大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "69418_s",
+        "name": "市立西苑高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "69418_j",
+        "name": "市立中山國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "69418_e",
+        "name": "市立西屯國小"
+    }
+]

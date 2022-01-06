@@ -1,0 +1,532 @@
+[
+    {
+        "type": "house",
+        "id": 70528,
+        "name": 0
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "70528_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "70528_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "70528_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "70528_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "70528_u",
+        "name": "國立勤益科技大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "70528_s",
+        "name": "財團法人常春藤高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "70528_j",
+        "name": "市立新光國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "70528_e",
+        "name": "市立軍功國小"
+    },
+    {
+        "type": "house",
+        "id": 70254,
+        "name": 1
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "70254_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "70254_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "70254_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "70254_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "70254_u",
+        "name": "國立勤益科技大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "70254_s",
+        "name": "財團法人常春藤高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "70254_j",
+        "name": "市立北新國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "70254_e",
+        "name": "市立軍功國小"
+    },
+    {
+        "type": "house",
+        "id": 83240,
+        "name": 2
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "83240_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "83240_h",
+        "name": "國軍臺中總醫院"
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "83240_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "83240_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "83240_u",
+        "name": "國立勤益科技大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "83240_s",
+        "name": "私立華盛頓高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "83240_j",
+        "name": "市立太平國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "83240_e",
+        "name": "市立太平區中華國小"
+    },
+    {
+        "type": "house",
+        "id": 67808,
+        "name": 3
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "67808_o",
+        "name": "北屯派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "67808_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "67808_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "67808_p",
+        "name": "福光公園\t"
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "67808_u",
+        "name": "國立臺中教育大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "67808_s",
+        "name": "私立葳格高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "67808_j",
+        "name": "市立新光國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "67808_e",
+        "name": "市立北屯國小"
+    },
+    {
+        "type": "house",
+        "id": 25312,
+        "name": 4
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "25312_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "25312_h",
+        "name": "國軍臺中總醫院"
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "25312_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "25312_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "25312_u",
+        "name": "國立勤益科技大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "25312_s",
+        "name": "私立華盛頓高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "25312_j",
+        "name": "市立太平國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "25312_e",
+        "name": "市立太平區中華國小"
+    },
+    {
+        "type": "house",
+        "id": 79147,
+        "name": 5
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "79147_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "79147_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "79147_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "79147_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "79147_u",
+        "name": "國立勤益科技大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "79147_s",
+        "name": "財團法人常春藤高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "79147_j",
+        "name": "市立新光國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "79147_e",
+        "name": "市立軍功國小"
+    },
+    {
+        "type": "house",
+        "id": 90605,
+        "name": 6
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "90605_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "90605_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "90605_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "90605_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "90605_u",
+        "name": "國立勤益科技大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "90605_s",
+        "name": "私立華盛頓高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "90605_j",
+        "name": "市立太平國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "90605_e",
+        "name": "市立軍功國小"
+    },
+    {
+        "type": "house",
+        "id": 97836,
+        "name": 7
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "97836_o",
+        "name": "立人派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "97836_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "97836_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "97836_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "97836_u",
+        "name": "國立臺中教育大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "97836_s",
+        "name": "私立新民高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "97836_j",
+        "name": "市立大德國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "97836_e",
+        "name": "私立慎齋小學"
+    },
+    {
+        "type": "house",
+        "id": 17621,
+        "name": 8
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "17621_o",
+        "name": "第五分局"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "17621_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "17621_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "17621_p",
+        "name": "兒146"
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "17621_u",
+        "name": "國立臺中教育大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "17621_s",
+        "name": "私立葳格高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "17621_j",
+        "name": "市立大德國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "17621_e",
+        "name": "私立明道普霖斯頓小學"
+    },
+    {
+        "type": "house",
+        "id": 99701,
+        "name": 9
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "99701_o",
+        "name": "第五分局"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "99701_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "99701_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "99701_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "99701_u",
+        "name": "國立臺中教育大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "99701_s",
+        "name": "私立葳格高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "99701_j",
+        "name": "市立大德國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "99701_e",
+        "name": "私立明道普霖斯頓小學"
+    }
+]
