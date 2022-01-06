@@ -1,0 +1,102 @@
+[
+    {
+        "near_police": null,
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": "軍功公園1\t",
+        "near_university": "國立勤益科技大學",
+        "near_senior_high_school": "財團法人常春藤高中",
+        "near_junior_high_school": "市立北新國中",
+        "near_elementary_school": "市立軍功國小"
+    },
+    {
+        "near_police": null,
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "國立勤益科技大學",
+        "near_senior_high_school": "私立華盛頓高中",
+        "near_junior_high_school": "市立太平國中",
+        "near_elementary_school": "市立新平國小"
+    },
+    {
+        "near_police": "北屯派出所",
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": "遼寧公園",
+        "near_university": "國立臺中教育大學",
+        "near_senior_high_school": "私立葳格高中",
+        "near_junior_high_school": "市立新光國中",
+        "near_elementary_school": "市立北屯國小"
+    },
+    {
+        "near_police": "立人派出所",
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "國立臺中教育大學",
+        "near_senior_high_school": "私立衛道高中",
+        "near_junior_high_school": "市立大德國中",
+        "near_elementary_school": "私立慎齋小學"
+    },
+    {
+        "near_police": "松安派出所",
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "國立臺中教育大學",
+        "near_senior_high_school": "財團法人常春藤高中",
+        "near_junior_high_school": "市立新光國中",
+        "near_elementary_school": "市立僑孝國小"
+    },
+    {
+        "near_police": null,
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "國立勤益科技大學",
+        "near_senior_high_school": "私立華盛頓高中",
+        "near_junior_high_school": "市立太平國中",
+        "near_elementary_school": "市立軍功國小"
+    },
+    {
+        "near_police": null,
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": "兒4",
+        "near_university": "國立勤益科技大學",
+        "near_senior_high_school": "財團法人常春藤高中",
+        "near_junior_high_school": "市立新光國中",
+        "near_elementary_school": "市立軍功國小"
+    },
+    {
+        "near_police": "第二分局",
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "國立臺中教育大學",
+        "near_senior_high_school": "私立葳格高中",
+        "near_junior_high_school": "市立新光國中",
+        "near_elementary_school": "私立明道普霖斯頓小學"
+    },
+    {
+        "near_police": null,
+        "near_hospital": "國軍臺中總醫院",
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "國立勤益科技大學",
+        "near_senior_high_school": "私立華盛頓高中",
+        "near_junior_high_school": "市立太平國中",
+        "near_elementary_school": "市立新平國小"
+    },
+    {
+        "near_police": "第二分局",
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": "熱河公園",
+        "near_university": "國立臺中教育大學",
+        "near_senior_high_school": "私立葳格高中",
+        "near_junior_high_school": "市立雙十國中",
+        "near_elementary_school": "私立慎齋小學"
+    }
+]

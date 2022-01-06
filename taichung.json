@@ -1,0 +1,102 @@
+﻿[
+    {
+        "near_police": null,
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": "廣7",
+        "near_university": null,
+        "near_senior_high_school": null,
+        "near_junior_high_school": "市立梧棲國中",
+        "near_elementary_school": "市立槺榔國小"
+    },
+    {
+        "near_police": "潭子分駐所",
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "中臺科技大學",
+        "near_senior_high_school": "財團法人常春藤高中",
+        "near_junior_high_school": "市立潭子國中",
+        "near_elementary_school": "市立潭子國小"
+    },
+    {
+        "near_police": "第一分局",
+        "near_hospital": null,
+        "near_religious_activities": "臺中柳原教會",
+        "near_park": null,
+        "near_university": "國立中興大學",
+        "near_senior_high_school": "國立興大附中",
+        "near_junior_high_school": "市立光榮國中",
+        "near_elementary_school": "市立臺中國小"
+    },
+    {
+        "near_police": "黎明派出所",
+        "near_hospital": null,
+        "near_religious_activities": "臺中萬和宮．老二媽西屯省親遶境",
+        "near_park": null,
+        "near_university": "國立臺中教育大學",
+        "near_senior_high_school": "市立惠文高中",
+        "near_junior_high_school": "市立黎明國中",
+        "near_elementary_school": "市立黎明國小"
+    },
+    {
+        "near_police": null,
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "東海大學",
+        "near_senior_high_school": null,
+        "near_junior_high_school": "市立四箴國中",
+        "near_elementary_school": "市立龍峰國小"
+    },
+    {
+        "near_police": "四平派出所",
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": "細公2-5",
+        "near_university": "國立臺中科技大學",
+        "near_senior_high_school": "私立衛道高中",
+        "near_junior_high_school": "市立北新國中",
+        "near_elementary_school": "市立頭家國小"
+    },
+    {
+        "near_police": null,
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "靜宜大學",
+        "near_senior_high_school": null,
+        "near_junior_high_school": "市立龍井國中",
+        "near_elementary_school": "市立龍山國小"
+    },
+    {
+        "near_police": "合作派出所",
+        "near_hospital": null,
+        "near_religious_activities": "臺中柳原教會",
+        "near_park": null,
+        "near_university": "國立中興大學",
+        "near_senior_high_school": "私立葳格高中",
+        "near_junior_high_school": "市立新光國中",
+        "near_elementary_school": "市立新光國小"
+    },
+    {
+        "near_police": "內新派出所",
+        "near_hospital": "仁愛醫療財團法人大里仁愛醫院",
+        "near_religious_activities": null,
+        "near_park": "公兒21",
+        "near_university": "國立中興大學",
+        "near_senior_high_school": "國立興大附中",
+        "near_junior_high_school": "市立光榮國中",
+        "near_elementary_school": "市立崇光國小"
+    },
+    {
+        "near_police": "立人派出所",
+        "near_hospital": null,
+        "near_religious_activities": null,
+        "near_park": null,
+        "near_university": "國立臺中教育大學",
+        "near_senior_high_school": "私立衛道高中",
+        "near_junior_high_school": "市立大德國中",
+        "near_elementary_school": "市立北區中華國小"
+    }
+]
