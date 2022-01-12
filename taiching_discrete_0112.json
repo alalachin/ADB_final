@@ -1,0 +1,552 @@
+[
+    {
+        "type": "house",
+        "id": 77605,
+        "name": "臺中市北屯區太原路三段１２８９號十一樓之１",
+        "lat": 222167.8478,
+        "long": 2672963.562
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "77605_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "77605_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "77605_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "77605_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "77605_u",
+        "name": "國立勤益科技大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "77605_s",
+        "name": "私立華盛頓高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "77605_j",
+        "name": "市立太平國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "77605_e",
+        "name": "市立新平國小"
+    },
+    {
+        "type": "house",
+        "id": 72931,
+        "name": "臺中市北屯區平德路４１巷８號",
+        "lat": 216595.2415,
+        "long": 2675259.5
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "72931_o",
+        "name": "水湳派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "72931_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "72931_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "72931_p",
+        "name": "大德公園"
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "72931_u",
+        "name": "國立臺中教育大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "72931_s",
+        "name": "私立衛道高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "72931_j",
+        "name": "市立大德國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "72931_e",
+        "name": "私立慎齋小學"
+    },
+    {
+        "type": "house",
+        "id": 54437,
+        "name": "臺中市大里區成功路１２巷４３號",
+        "lat": 219382.38,
+        "long": 2664405.88
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "54437_o",
+        "name": "霧峰分局"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "54437_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "54437_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "54437_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "54437_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "54437_s",
+        "name": "私立青年高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "54437_j",
+        "name": "市立霧峰國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "54437_e",
+        "name": "市立塗城國小"
+    },
+    {
+        "type": "house",
+        "id": 77730,
+        "name": "臺中市南區文心南路７２２號七樓之２",
+        "lat": 215092.0645,
+        "long": 2667711.695
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "77730_o",
+        "name": "勤工派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "77730_h",
+        "name": "中山醫學大學附設醫院"
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "77730_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "77730_p",
+        "name": "樹義園道"
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "77730_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "77730_s",
+        "name": "私立明道高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "77730_j",
+        "name": "市立光德國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "77730_e",
+        "name": "市立南區和平國小"
+    },
+    {
+        "type": "house",
+        "id": 42440,
+        "name": "臺中市西屯區文心路三段６號８樓之１３",
+        "lat": 214503.5643,
+        "long": 2673160.53
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "42440_o",
+        "name": "何安派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "42440_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "42440_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "42440_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "42440_u",
+        "name": "國立臺中教育大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "42440_s",
+        "name": "私立曉明女中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "42440_j",
+        "name": "市立黎明國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "42440_e",
+        "name": "市立忠明國小"
+    },
+    {
+        "type": "house",
+        "id": 50614,
+        "name": "臺中市東區南京東路１段３３３號",
+        "lat": 219203.8119,
+        "long": 2671292.214
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "50614_o",
+        "name": "公園派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "50614_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "50614_r",
+        "name": "臺中柳原教會"
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "50614_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "50614_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "50614_s",
+        "name": "國立興大附農"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "50614_j",
+        "name": "市立新光國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "50614_e",
+        "name": "市立東區成功國小"
+    },
+    {
+        "type": "house",
+        "id": 69122,
+        "name": "臺中市北區忠太東路１１４號三樓之３",
+        "lat": 216587.6527,
+        "long": 2673242.485
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "69122_o",
+        "name": "第二分局"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "69122_h",
+        "name": "維新醫療社團法人台中維新醫院"
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "69122_r",
+        "name": "臺中柳原教會"
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "69122_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "69122_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "69122_s",
+        "name": "私立新民高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "69122_j",
+        "name": "市立雙十國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "69122_e",
+        "name": "市立北區中華國小"
+    },
+    {
+        "type": "house",
+        "id": 62467,
+        "name": "臺中市龍井區遠東街１４３巷４１號",
+        "lat": 208780.19,
+        "long": 2676156.65
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "62467_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "62467_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "62467_r",
+        "name": "東海大學路思義教堂"
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "62467_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "62467_u",
+        "name": "東海大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "62467_s",
+        "name": "私立東大附中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "62467_j",
+        "name": "市立四箴國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "62467_e",
+        "name": "市立東海國小"
+    },
+    {
+        "type": "house",
+        "id": 72840,
+        "name": "臺中市北區育樂街６０號五樓之６",
+        "lat": 218726.7225,
+        "long": 2672522.462
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "72840_o",
+        "name": "育才派出所"
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "72840_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "72840_r",
+        "name": "臺中柳原教會"
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "72840_p",
+        "name": "錦祥公園\t"
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "72840_u",
+        "name": "國立中興大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "72840_s",
+        "name": "私立新民高中"
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "72840_j",
+        "name": "市立新光國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "72840_e",
+        "name": "私立育仁國小"
+    },
+    {
+        "type": "house",
+        "id": 14978,
+        "name": "臺中市霧峰區五福路２７８之１８號４樓",
+        "lat": 216023.9459,
+        "long": 2663077.385
+    },
+    {
+        "type": "facility",
+        "subtype": "police",
+        "id": "14978_o",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "hospital",
+        "id": "14978_h",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "religious",
+        "id": "14978_r",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "park",
+        "id": "14978_p",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "university",
+        "id": "14978_u",
+        "name": "亞洲大學"
+    },
+    {
+        "type": "facility",
+        "subtype": "senior",
+        "id": "14978_s",
+        "name": NaN
+    },
+    {
+        "type": "facility",
+        "subtype": "junior",
+        "id": "14978_j",
+        "name": "市立溪南國中"
+    },
+    {
+        "type": "facility",
+        "subtype": "elementary",
+        "id": "14978_e",
+        "name": "市立五福國小"
+    }
+]
